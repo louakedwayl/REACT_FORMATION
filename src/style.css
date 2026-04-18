@@ -1,0 +1,15 @@
+.product-list
+{
+    display: flex;
+    flex-direction: column;
+    padding :20px;
+    border: 1px solid #c9c7c7;
+    width: 600px;
+    height: 800px;
+}
+
+input[type="text"]
+{
+    width: 80%;
+    height: 20px;
+}
